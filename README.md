@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dantesbytes
 - 👀 I’m interested in go python and node opportunites
-- languages Java. Second Go, Third Node.js followed by Python data analsys and cleaning.
+- languages Java. Second Go, Third Node.js followed by Python data Data analysis  and cleaning.
 - backendapplication development, ba
 - Cloud - deployments in infrastructure 
   
